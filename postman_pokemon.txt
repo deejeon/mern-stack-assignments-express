@@ -1,0 +1,9 @@
+https://pokeapi.co/api/v2/pokemon/charizard
+
+https://pokeapi.co/api/v2/pokemon/150
+
+https://pokeapi.co/api/v2/pokemon/15
+
+https://pokeapi.co/api/v2/pokemon/16
+
+https://pokeapi.co/api/v2/pokemon/17
